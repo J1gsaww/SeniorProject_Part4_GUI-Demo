@@ -22,6 +22,10 @@ Mr. Naphat			Sookjitsumrarn		6388059
 ## System Structure Chart
 <img src="/Snapshot/System Structure Chart.png" alt="SystemArc">
 
+- Preprocessing [here](https://github.com/J1gsaww/SeniorProject_Part1_Data-Preprocessing.git) <br>
+- Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). <br>
+- Evaluating | You can visit our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git). <br>
+- Displaying
 
 ## Displaying 
 This GUI application performs Thai characters handwritten recognition using a deep learning model. 
