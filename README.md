@@ -20,7 +20,8 @@ Mr. Naphat			Sookjitsumrarn		6388059
 <br> `Resposible on Evaluating`
 
 ## System Structure Chart
-<img src="/Snapshot/System Structure Chart.png" alt="SystemArc">
+<img src="/Snapshot/System Structure Chart.png" alt="SystemArc"> <br>
+**Our project consist of 4 parts including:** <br>
 
 - Preprocessing [here](https://github.com/J1gsaww/SeniorProject_Part1_Data-Preprocessing.git) <br>
 - Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). <br>
