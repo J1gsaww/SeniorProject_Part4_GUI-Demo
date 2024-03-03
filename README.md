@@ -46,4 +46,7 @@ Users can upload an image containing handwritten Thai characters, and the applic
 <br><br>`Screenshot of the Prediction`<br>
 <img src="\Snapshot\Predict.png" alt="predict" width="500">
 
+## Future Feature
+- allow user to draw a handwritten before predict
+
 
