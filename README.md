@@ -25,7 +25,22 @@ Mr. Naphat			Sookjitsumrarn		6388059
 
 ## Displaying 
 This GUI application performs Thai characters handwritten recognition using a deep learning model. 
-Users can upload an image containing handwritten Thai characters, and the application predicts the characters using the trained model. 
+Users can upload an image containing handwritten Thai characters, and the application predicts the characters using the trained model.
 
+**Required library:** PIL (Python Imaging Library) 
+<br>- Tkinter (Python GUI Library)
+<br>- Pillow (Python Imaging Library)
+<br>- OpenCV (Computer Vision Library)
+<br>- Keras (Deep Learning Library)
+
+## Features
+- **Upload Image:** Allows users to upload an image file containing handwritten Thai characters.
+- **Predict:** Performs character recognition on the uploaded image and displays the predicted characters.
+- **Clear:** Clears the uploaded image and the prediction result.
+- **Exit:** Closes the application.
+
+#Snapshot
+<br><br>`Screenshot of the application`<br>
+<img src="\Snapshot\Screenshot1.png" alt="screenshot" width="300">
 
 
