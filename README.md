@@ -41,6 +41,6 @@ Users can upload an image containing handwritten Thai characters, and the applic
 
 #Snapshot
 <br><br>`Screenshot of the application`<br>
-<img src="\Snapshot\Screenshot1.png" alt="screenshot" width="300">
+<img src="\Snapshot\Screenshot1.png" alt="screenshot">
 
 
