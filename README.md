@@ -46,10 +46,10 @@ Users can upload an image containing handwritten Thai characters, and the applic
 
 #Snapshot
 <br><br>`Screenshot of the application`<br>
-<img src="Snapshot\Screenshot1.png" alt="screenshot" width="500">
+<img src="Snapshot\Screenshot1.png" alt="screenshot" width="400">
 
 <br><br>`Screenshot of the Prediction`<br>
-<img src="Snapshot\Predict.png" alt="predict" width="500">
+<img src="Snapshot\Predict.png" alt="predict" width="400">
 
 ## Future Feature
 - Allow user to draw a handwritten before predict
